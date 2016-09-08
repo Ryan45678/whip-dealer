@@ -11,6 +11,6 @@ public class Car
 
 	public Car()
 	{
-		System.out.println("Car Dealership");
+		System.out.println("Car Dealership testing");
 	}
 }
