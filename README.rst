@@ -2,7 +2,7 @@
 whip-dealer
 ###########
 
-* Car dealership simulator.
+Car dealership simulator.
 
 ********
 Features
