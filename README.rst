@@ -2,6 +2,8 @@
 whip-dealer
 ###########
 
+* Car dealership simulator.
+
 ********
 Features
 ********
